@@ -5,5 +5,5 @@ A new Flutter project.
 ## Getting Started
 
 <p> 
-<img align="center" width="1000" height="700" src=""
+<img align="center" width="400" height="850" src="https://raw.githubusercontent.com/alexander-brandao/ListaDeTarefas/main/lib/images/app.png"
 </p>
