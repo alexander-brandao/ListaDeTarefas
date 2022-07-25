@@ -1,6 +1,6 @@
 # lista_de_tarefas
 
-A new Flutter project.
+An application to save, delete and create tasks
 
 ## Getting Started
 
